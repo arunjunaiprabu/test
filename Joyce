@@ -1,1 +1,3 @@
 Show ip route
+
+sh running-config (test)
